@@ -1,9 +1,4 @@
-# Doc-Gestion_Gastos
 
-Aquí tienes un **README.md** claro, profesional y adecuado para un repositorio de documentación.
-Si quieres, puedo ajustarlo al estilo de tu empresa, agregar logos, enlaces o una estructura más técnica.
-
----
 
 # 📘 Repositorio de Documentación
 

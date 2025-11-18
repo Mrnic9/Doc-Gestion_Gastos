@@ -54,7 +54,8 @@ Puedes encontrar los archivos en la raíz del repositorio o dentro de carpetas o
 * **Modeler BPM** – para los flujos BPMN.
 
 ---
+## 🛠 Repositorios
+OPERATION- https://github.com/Mrnic9/OPERATION.git
+BD- https://github.com/Mrnic9/BD_Gestion_Gastos.git
+BASE BACK- https://github.com/Miguel-121203/Gestion_de_gastos_Back.git
 
-
-
-Si quieres, puedo generarte la **versión en Markdown lista para pegar en GitHub**, o incluso crear carpetas recomendadas.
